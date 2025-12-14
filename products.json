@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "title": "iphone 15",
+    "price": 100000,
+    "category": "phone",
+    "image": "https://example.com/tshirt.png",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "title": "Samsung S23",
+    "price": 50000,
+    "category": "phone",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 3,
+    "title": "Dell",
+    "price": 72899,
+    "category": "laptops",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 4,
+    "title": "HP laptop",
+    "price": 52000,
+    "category": "laptops",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 5,
+    "title": "Lenovo laptop",
+    "price": 50899,
+    "category": "laptops",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 6,
+    "title": "Headphone",
+    "price": 1899,
+    "category": "gadgets",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 7,
+    "title": "earpods",
+    "price": 1899,
+    "category": "gadgets",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 8,
+    "title": "Apple smart watch series 8",
+    "price": 42899,
+    "category": "smart watch",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 9,
+    "title": "Apple smart watch series 9",
+    "price": 45999,
+    "category": "smart watch",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 10,
+    "title": "Apple smart watch series 10",
+    "price": 49999,
+    "category": "smart watch",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 11,
+    "title": "JBL Cinema SB190, Dolby Atmos Sound, Wireless Subwoofer for Extra Deep Bass 380 W Bluetooth Soundbar  (Black, 2.1 Channel)",
+    "price": 42899,
+    "category": "speakers",
+    "image": "https://example.com/kurti.png",
+    "description": "Comfortable daily wear kurti."
+  },
+  {
+    "id": 12,
+    "title": "JBL Flip 5 with 12Hr Playtime",
+    "price": 42899,
+    "category": "speakers",
+    "image": "https://example.com/kurti.png",
+    "description": "JBL Flip 5 with 12Hr Playtime, IPX7 Waterproof, Partyboost Portable 20 W Bluetooth Speaker  (Multicolor, Stereo Channel)"
+  },
+  {
+    "id": 13,
+    "title": "OPPO k13x",
+    "price": 15899,
+    "category": "phone",
+    "image": "https://example.com/kurti.png",
+    "description": "OPPO K13x 5G 6000mAh and 45W SUPERVOOC Charger & AI (Midnight Violet, 128 GB)  (4 GB RAM)"
+  },
+  {
+    "id": 14,
+    "title": "JBL Go Essential with Rich Bass",
+    "price": 42899,
+    "category": "speakers",
+    "image": "https://example.com/kurti.png",
+    "description": "JBL Go Essential with Rich Bass, 5 Hrs Playtime, IPX7 Waterproof, Ultra Portable 3.1 W Bluetooth Speaker  (Blue, Mono Channel)"
+  },
+  {
+    "id": 15,
+    "title": "JBL Flip Essential 2",
+    "price": 42899,
+    "category": "speakers",
+    "image": "https://example.com/kurti.png",
+    "description": "JBL Flip Essential 2, Deep Bass, 10Hrs Playtime, IPX7 Waterproof, Portable 20 W Bluetooth Speaker  (Black, Mono Channel)"
+  }
+  
+  
+  
+]
