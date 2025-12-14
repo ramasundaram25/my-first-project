@@ -3,6 +3,7 @@
     "id": 1,
     "title": "iphone 15",
     "price": 100000,
+    "brand":"apple",
     "category": "phone",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/iphone/apple2.jpg",
     "description": ""
@@ -11,6 +12,7 @@
     "id": 2,
     "title": "Samsung S23",
     "price": 50000,
+    "brand":"samsung",
     "category": "phone",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/samsung1.jpg",
     "description": "Comfortable daily wear kurti."
@@ -19,14 +21,16 @@
     "id": 3,
     "title": "Dell",
     "price": 72899,
+    "brand":"dell",
     "category": "laptops",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/dell.avif",
     "description": "Comfortable daily wear kurti."
   },
   {
     "id": 4,
-    "title": "HP laptop",
-    "price": 52000,
+    "title": "Dell gaming laptop",
+    "price": 82000,
+    "brand":"dell",
     "category": "laptops",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/HP.avif",
     "description": "Comfortable daily wear kurti."
@@ -35,6 +39,7 @@
     "id": 5,
     "title": "Lenovo laptop",
     "price": 50899,
+    "brand":"lenovo",
     "category": "laptops",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/dell2.avif",
     "description": "Comfortable daily wear kurti."
@@ -43,6 +48,7 @@
     "id": 6,
     "title": "Headphone",
     "price": 1899,
+    "brand":"boat",
     "category": "gadgets",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/Headphone.avif",
     "description": "boAt Rockerz 425,25H Battery, BEAST Mode,ENx,Dual Pair, Stream Ad Free Music via App Bluetooth  (Oceana Blue, On the Ear)"
@@ -51,6 +57,7 @@
     "id": 7,
     "title": "earpods",
     "price": 1899,
+    "brand":"boat",
     "category": "gadgets",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/earpods.jpg",
     "description": "boAt Airdopes 101v2, Flex Fit Tips,13mm Drivers, Stream Ad Free Music via App Support Bluetooth  (Cloudy Grey, True Wireless)"
@@ -59,6 +66,7 @@
     "id": 8,
     "title": "Apple smart watch series 8",
     "price": 42899,
+    "brand":"apple",
     "category": "smart watch",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/series8.webp",
     "description": "Apple Watch Series 8, 45mm GPS ECG app, Temperature sensor, IPX6, Fall/Crash Detection  (Starlight Sport Strap, Regular)"
@@ -67,6 +75,7 @@
     "id": 9,
     "title": "Apple smart watch series 9",
     "price": 45999,
+    "brand":"apple",
     "category": "smart watch",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/series9.webp",
     "description": "Apple Watch Series 9 GPS 45mm Aluminium Case with Sport Band - S/M  (Midnight Strap, Free Size)"
@@ -75,6 +84,7 @@
     "id": 10,
     "title": "Apple smart watch series 10",
     "price": 49999,
+    "brand":"apple",
     "category": "smart watch",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/series10.webp",
     "description": "Apple Watch Series 10 GPS 46mm Jet Black Aluminium with Ink Sport Loop  (Ink Strap, Free Size)"
@@ -83,14 +93,16 @@
     "id": 11,
     "title": "JBL Cinema SB190",
     "price": 42899,
+    "brand":"jbl",
     "category": "speakers",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/JBL_CINEMA_SB190_HERO.webp",
     "description": "JBL Cinema SB190, Dolby Atmos Sound, Wireless Subwoofer for Extra Deep Bass 380 W Bluetooth Soundbar  (Black, 2.1 Channel)"
   },
   {
     "id": 12,
     "title": "JBL Flip 5 with 12Hr Playtime",
     "price": 42899,
+    "brand":"jbl",
     "category": "speakers",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/jbl3.jpg",
     "description": "JBL Flip 5 with 12Hr Playtime, IPX7 Waterproof, Partyboost Portable 20 W Bluetooth Speaker  (Multicolor, Stereo Channel)"
@@ -99,6 +111,7 @@
     "id": 13,
     "title": "OPPO k13x",
     "price": 15899,
+    "brand":"oppo",
     "category": "phone",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/oppo.png",
     "description": "OPPO K13x 5G 6000mAh and 45W SUPERVOOC Charger & AI (Midnight Violet, 128 GB)  (4 GB RAM)"
@@ -107,6 +120,7 @@
     "id": 14,
     "title": "JBL Go Essential with Rich Bass",
     "price": 4299,
+    "brand":"jbl",
     "category": "speakers",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/jbl2.webp",
     "description": "JBL Go Essential with Rich Bass, 5 Hrs Playtime, IPX7 Waterproof, Ultra Portable 3.1 W Bluetooth Speaker  (Blue, Mono Channel)"
@@ -115,6 +129,7 @@
     "id": 15,
     "title": "JBL Flip Essential 2",
     "price": 2899,
+    "brand":"jbl",
     "category": "speakers",
     "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/jbl1.jpg",
     "description": "JBL Flip Essential 2, Deep Bass, 10Hrs Playtime, IPX7 Waterproof, Portable 20 W Bluetooth Speaker  (Black, Mono Channel)"
