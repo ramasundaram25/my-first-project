@@ -4,7 +4,7 @@
     "title": "iphone 15",
     "price": 100000,
     "category": "phone",
-    "image": "https://example.com/tshirt.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/iphone/apple2.jpg",
     "description": ""
   },
   {
@@ -12,7 +12,7 @@
     "title": "Samsung S23",
     "price": 50000,
     "category": "phone",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/samsung1.jpg",
     "description": "Comfortable daily wear kurti."
   },
   {
@@ -20,7 +20,7 @@
     "title": "Dell",
     "price": 72899,
     "category": "laptops",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/dell.avif",
     "description": "Comfortable daily wear kurti."
   },
   {
@@ -28,7 +28,7 @@
     "title": "HP laptop",
     "price": 52000,
     "category": "laptops",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/HP.avif",
     "description": "Comfortable daily wear kurti."
   },
   {
@@ -36,7 +36,7 @@
     "title": "Lenovo laptop",
     "price": 50899,
     "category": "laptops",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/dell2.avif",
     "description": "Comfortable daily wear kurti."
   },
   {
@@ -44,8 +44,8 @@
     "title": "Headphone",
     "price": 1899,
     "category": "gadgets",
-    "image": "https://example.com/kurti.png",
-    "description": "Comfortable daily wear kurti."
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/Headphone.avif",
+    "description": "boAt Rockerz 425,25H Battery, BEAST Mode,ENx,Dual Pair, Stream Ad Free Music via App Bluetooth  (Oceana Blue, On the Ear)"
   },
   {
     "id": 7,
@@ -81,11 +81,11 @@
   },
   {
     "id": 11,
-    "title": "JBL Cinema SB190, Dolby Atmos Sound, Wireless Subwoofer for Extra Deep Bass 380 W Bluetooth Soundbar  (Black, 2.1 Channel)",
+    "title": "JBL Cinema SB190",
     "price": 42899,
     "category": "speakers",
     "image": "https://example.com/kurti.png",
-    "description": "Comfortable daily wear kurti."
+    "description": "JBL Cinema SB190, Dolby Atmos Sound, Wireless Subwoofer for Extra Deep Bass 380 W Bluetooth Soundbar  (Black, 2.1 Channel)"
   },
   {
     "id": 12,
