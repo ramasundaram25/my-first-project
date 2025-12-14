@@ -60,7 +60,7 @@
     "title": "Apple smart watch series 8",
     "price": 42899,
     "category": "smart watch",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/series8.webp",
     "description": "Apple Watch Series 8, 45mm GPS ECG app, Temperature sensor, IPX6, Fall/Crash Detection  (Starlight Sport Strap, Regular)"
   },
   {
@@ -68,7 +68,7 @@
     "title": "Apple smart watch series 9",
     "price": 45999,
     "category": "smart watch",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/series9.webp",
     "description": "Apple Watch Series 9 GPS 45mm Aluminium Case with Sport Band - S/M  (Midnight Strap, Free Size)"
   },
   {
@@ -76,7 +76,7 @@
     "title": "Apple smart watch series 10",
     "price": 49999,
     "category": "smart watch",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/series10.webp",
     "description": "Apple Watch Series 10 GPS 46mm Jet Black Aluminium with Ink Sport Loop  (Ink Strap, Free Size)"
   },
   {
@@ -92,7 +92,7 @@
     "title": "JBL Flip 5 with 12Hr Playtime",
     "price": 42899,
     "category": "speakers",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/jbl3.jpg",
     "description": "JBL Flip 5 with 12Hr Playtime, IPX7 Waterproof, Partyboost Portable 20 W Bluetooth Speaker  (Multicolor, Stereo Channel)"
   },
   {
@@ -108,7 +108,7 @@
     "title": "JBL Go Essential with Rich Bass",
     "price": 4299,
     "category": "speakers",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/jbl2.webp",
     "description": "JBL Go Essential with Rich Bass, 5 Hrs Playtime, IPX7 Waterproof, Ultra Portable 3.1 W Bluetooth Speaker  (Blue, Mono Channel)"
   },
   {
@@ -116,7 +116,7 @@
     "title": "JBL Flip Essential 2",
     "price": 2899,
     "category": "speakers",
-    "image": "https://example.com/kurti.png",
+    "image": "https://cdn.jsdelivr.net/gh/ramasundaram25/my-first-project/images/newitems/jbl1.jpg",
     "description": "JBL Flip Essential 2, Deep Bass, 10Hrs Playtime, IPX7 Waterproof, Portable 20 W Bluetooth Speaker  (Black, Mono Channel)"
   }
   
